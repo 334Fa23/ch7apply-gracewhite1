@@ -99,8 +99,8 @@ footer {
     
     aside {
         display: grid;
-        grid-template-columns: auto auto auto auto;
-        grid-column: auto;
+        grid-template-columns: auto;
+        grid-column: auto auto auto auto;
     }
     
 }
